@@ -15,5 +15,5 @@
 
 ## Estado de implementación
 
-La implementación y las pruebas están pendientes. La aprobación de estos documentos establece una línea base documental y no certifica que los componentes estén construidos.
+Existe un MVP inicial para la carga y análisis offline de EVTX. Su validación y las pruebas siguen pendientes. La conexión remota, ejecución de reparaciones y proveedor externo no están implementados.
 
