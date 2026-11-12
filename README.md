@@ -1,8 +1,3 @@
-Set-PSReadLineOption: C:\Users\arnay\SynologyDrive\Documents\PowerShell\Microsoft.PowerShell_profile.ps1:3
-Line |
-   3 |  Set-PSReadLineOption -PredictionViewStyle ListView
-     |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-     | The handle is invalid.
 # Windows Autonomous IT Diagnostic
 
 Proyecto para analizar registros EVTX de Windows, diagnosticar errores y alertas, y orientar su resolución con controles de seguridad. El diseño contempla análisis offline en la primera etapa y conexión con PCs remotas mediante agentes en un hito posterior.
