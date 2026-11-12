@@ -1,8 +1,3 @@
-Set-PSReadLineOption: C:\Users\arnay\SynologyDrive\Documents\PowerShell\Microsoft.PowerShell_profile.ps1:3
-Line |
-   3 |  Set-PSReadLineOption -PredictionViewStyle ListView
-     |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-     | The handle is invalid.
 # Índice documental
 
 ## Línea base aprobada
